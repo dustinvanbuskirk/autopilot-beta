@@ -1,0 +1,1 @@
+{"appName":"demochat","userGivenName":"demochat","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demochat/overlays/dev","srcRepoURL":"https://github.com/dustinvanbuskirk/autopilot-beta.git","srcTargetRevision":""}
